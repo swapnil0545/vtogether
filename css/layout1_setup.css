@@ -1,0 +1,2 @@
+.main {clear:both; width:900px; padding-bottom:30px; background:transparent url(../img/bg_main_withoutnav.jpg) repeat-y;}
+.main-content {display:inline; /*Fix IE floating margin bug*/; float:left; width:840px; margin:0 0 0 30px; overflow:visible !important /*Firefox*/; overflow:hidden /*IE6*/;}
